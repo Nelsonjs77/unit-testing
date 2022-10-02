@@ -5,4 +5,4 @@ export function compute (x: number) {
     else if(x = 1)
        numero = 1;
     return numero;
-}
+} 
