@@ -3,6 +3,6 @@ export function compute (x: number) {
     if(x < 0)
       numero = 0;
     else if(x = 1)
-       numero = 1;
+       numero = 2;
     return numero;
 } 
